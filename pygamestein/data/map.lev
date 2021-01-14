@@ -1,0 +1,64 @@
+w1 w1 w1 w1 w1 w1 w1 w1 w1 w1 w3 w3 w3 w3 w3 w3 w3 w2 w2 w2 w2
+w1 w0 w0 w0 w1 w5 w1 w0 w0 w0 w3 es es w0 s2 w0 w3 w2 es es w2
+w1 ps s1 w0 w0 w4 w0 w0 s1 es w3 es es w0 w0 w0 w3 w2 es es w2
+w1 w0 w0 w0 w1 w5 w1 w0 w0 w0 w3 es es w0 s2 w0 w3 w2 es es w2
+w1 w1 w1 w1 w1 w1 w1 w1 w0 w1 w3 es es w0 w0 w0 w3 w2 w0 es w2
+w7 w7 w7 w7 w7 w7 w1 w5 w4 w5 w3 w3 es w0 s2 w0 w3 w2 s1 es w2
+w7 es es es w7 w6 w6 w6 w0 w6 w6 w6 w3 w0 w0 w0 w0 w0 w0 es w2
+w7 es es w7 w5 w6 s0 w0 es w0 s0 w6 w5 w3 w0 w0 w0 w0 w0 es w2
+w7 w0 w0 w0 w4 w0 w0 es es es w0 w0 w4 w0 w0 w0 w3 w2 s1 es w2
+w7 w0 w0 w7 w5 w6 s0 w0 es w0 s0 w6 w5 w3 w0 w0 w3 w2 w0 es w2
+w7 w0 w0 w0 w7 w6 w6 w6 w6 w6 w6 w6 w3 w0 w0 w0 w3 w2 w0 es w2
+w7 w0 w0 w0 w0 w7 w7 w7 w7 w7 w7 w7 w7 w3 w0 w0 w3 w2 es es w2
+w7 w0 s1 w0 w0 w0 s1 w0 es es es es w7 w3 w0 w0 w3 w2 es es w2
+w7 w0 w0 w0 w0 w0 s1 w0 es es es es w7 w3 w0 w0 w3 w2 es es w2
+w7 w7 w7 w7 w7 w7 w7 w7 w7 w7 w7 w7 w7 w3 w3 w3 w3 w2 w2 w2 w2
+
+125 125 125
+50 50 50
+
+Der Meister.mid
+
+1.bmp
+
+EOL
+w8 w8 w8 w8 w8 w8
+w8 ps w0 s89 w0 w9
+w8 w8 w0 w8 w8 w8
+w8 w8 w0 w8 w8 w8
+w8 w0 w0 w0 w0 w8
+w8 s91 w8 w8 s91 w8
+w8 s92 w8 w8 s92 w8
+w8 es w8 w8 es w8 w8 w8 w8 w8 w8 w8 w8 w8
+w5 w4 w5 w5 w4 w5 w8 es es es es es w8 w8
+w8 w0 w8 w8 w0 w8 es s90 es es es s90 es w8
+w8 w0 w0 w0 w0 w8 w0 w0 w0 w0 w0 w0 w0 w8
+w8 w8 w0 w0 w8 w8 w0 w0 w0 w0 w0 w0 w0 w8
+w8 w8 w0 w0 w8 w8 w0 w0 w0 s92 s92 w0 w0 w8
+w8 w8 es es w8 w5 w8 w0 w0 s92 s92 w0 w0 w8
+w8 w8 es es w0 w4 w0 w0 w0 w0 w0 w0 w0 w8
+w8 w8 es es w8 w5 w8 w0 w0 w0 w0 w0 w0 w8
+w8 w8 es es w8 w8 es s90 es es es s90 es w8
+w8 w8 es es w8 w8 w8 es es es es es w8 w8
+w8 w8 w8 w8 w8 w8 w8 w8 w8 w8 w8 w8 w8 w8
+
+255 0 0
+255 0 255
+
+Rammlied.mid
+
+2.bmp
+
+EOL
+w7 w7 w7 w7 w7 w7
+w7 w0 w0 w0 w0 w7
+w7 ps w0 w0 es w7
+w7 w0 w0 w0 w0 w7
+w7 w7 w7 w7 w7 w7
+
+0 255 0
+0 0 255
+
+Sonne.mid
+
+3.bmp
